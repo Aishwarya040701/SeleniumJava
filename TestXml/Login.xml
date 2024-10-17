@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="s1">
+<test name="t1">
+<parameter name="username" value="standard_user"></parameter>
+<parameter name="password" value="secret_sauce"></parameter>
+<classes>
+<class name="com.testng.TestForLoginParameterAnnotation"></class>
+
+</classes>
+
+</test>
+</suite>
